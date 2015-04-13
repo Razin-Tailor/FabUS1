@@ -1,0 +1,345 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:2:1
+	xmlns:android
+		ADDED from AndroidManifest.xml:2:11
+	package
+		ADDED from AndroidManifest.xml:3:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		ADDED from AndroidManifest.xml:5:5
+	android:versionCode
+		ADDED from AndroidManifest.xml:4:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+uses-sdk
+ADDED from AndroidManifest.xml:7:5
+MERGED from com.android.support:support-v4:21.0.3:15:5
+MERGED from com.android.support:support-v13:21.0.3:15:5
+MERGED from com.android.support:support-v4:21.0.3:15:5
+	android:targetSdkVersion
+		ADDED from AndroidManifest.xml:9:9
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:8:9
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from AndroidManifest.xml:11:5
+	android:maxSdkVersion
+		ADDED from AndroidManifest.xml:13:9
+	android:name
+		ADDED from AndroidManifest.xml:12:9
+android:uses-permission#android.permission.READ_PHONE_STATE
+ADDED from AndroidManifest.xml:14:5
+	android:name
+		ADDED from AndroidManifest.xml:14:30
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from AndroidManifest.xml:15:5
+	android:maxSdkVersion
+		ADDED from AndroidManifest.xml:17:9
+	android:name
+		ADDED from AndroidManifest.xml:16:9
+application
+ADDED from AndroidManifest.xml:19:5
+MERGED from com.android.support:support-v4:21.0.3:16:5
+MERGED from com.android.support:support-v13:21.0.3:16:5
+MERGED from com.android.support:support-v4:21.0.3:16:5
+	android:label
+		ADDED from AndroidManifest.xml:22:9
+	android:allowBackup
+		ADDED from AndroidManifest.xml:20:9
+	android:icon
+		ADDED from AndroidManifest.xml:21:9
+	android:theme
+		ADDED from AndroidManifest.xml:23:9
+activity#myp.app.fabus.MainActivity
+ADDED from AndroidManifest.xml:24:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:27:13
+	android:label
+		ADDED from AndroidManifest.xml:26:13
+	android:name
+		ADDED from AndroidManifest.xml:25:13
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:28:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:29:17
+	android:name
+		ADDED from AndroidManifest.xml:29:25
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:31:17
+	android:name
+		ADDED from AndroidManifest.xml:31:27
+activity#myp.app.fabus.TwoButtons
+ADDED from AndroidManifest.xml:34:9
+	android:label
+		ADDED from AndroidManifest.xml:36:13
+	android:name
+		ADDED from AndroidManifest.xml:35:13
+activity#myp.app.fabus.SevenButtons
+ADDED from AndroidManifest.xml:38:9
+	android:label
+		ADDED from AndroidManifest.xml:40:13
+	android:name
+		ADDED from AndroidManifest.xml:39:13
+activity#myp.app.fabus.question_1
+ADDED from AndroidManifest.xml:42:9
+	android:label
+		ADDED from AndroidManifest.xml:44:13
+	android:name
+		ADDED from AndroidManifest.xml:43:13
+activity#myp.app.fabus.komal_pari
+ADDED from AndroidManifest.xml:46:9
+	android:label
+		ADDED from AndroidManifest.xml:48:13
+	android:name
+		ADDED from AndroidManifest.xml:47:13
+activity#myp.app.fabus.question_2
+ADDED from AndroidManifest.xml:50:9
+	android:label
+		ADDED from AndroidManifest.xml:52:13
+	android:name
+		ADDED from AndroidManifest.xml:51:13
+activity#myp.app.fabus.shreya_pari
+ADDED from AndroidManifest.xml:54:9
+	android:label
+		ADDED from AndroidManifest.xml:56:13
+	android:name
+		ADDED from AndroidManifest.xml:55:13
+activity#myp.app.fabus.question_3
+ADDED from AndroidManifest.xml:58:9
+	android:label
+		ADDED from AndroidManifest.xml:60:13
+	android:name
+		ADDED from AndroidManifest.xml:59:13
+activity#myp.app.fabus.question_4
+ADDED from AndroidManifest.xml:62:9
+	android:label
+		ADDED from AndroidManifest.xml:64:13
+	android:name
+		ADDED from AndroidManifest.xml:63:13
+activity#myp.app.fabus.question_5
+ADDED from AndroidManifest.xml:66:9
+	android:label
+		ADDED from AndroidManifest.xml:68:13
+	android:name
+		ADDED from AndroidManifest.xml:67:13
+activity#myp.app.fabus.question_7
+ADDED from AndroidManifest.xml:70:9
+	android:label
+		ADDED from AndroidManifest.xml:72:13
+	android:name
+		ADDED from AndroidManifest.xml:71:13
+activity#myp.app.fabus.question_6
+ADDED from AndroidManifest.xml:74:9
+	android:label
+		ADDED from AndroidManifest.xml:76:13
+	android:name
+		ADDED from AndroidManifest.xml:75:13
+activity#myp.app.fabus.hetashvi_pari
+ADDED from AndroidManifest.xml:78:9
+	android:label
+		ADDED from AndroidManifest.xml:80:13
+	android:name
+		ADDED from AndroidManifest.xml:79:13
+activity#myp.app.fabus.mayank_pari
+ADDED from AndroidManifest.xml:82:9
+	android:label
+		ADDED from AndroidManifest.xml:84:13
+	android:name
+		ADDED from AndroidManifest.xml:83:13
+activity#myp.app.fabus.gaurang_pari
+ADDED from AndroidManifest.xml:86:9
+	android:label
+		ADDED from AndroidManifest.xml:88:13
+	android:name
+		ADDED from AndroidManifest.xml:87:13
+activity#myp.app.fabus.dev_pari
+ADDED from AndroidManifest.xml:90:9
+	android:label
+		ADDED from AndroidManifest.xml:92:13
+	android:name
+		ADDED from AndroidManifest.xml:91:13
+activity#myp.app.fabus.kish_pari
+ADDED from AndroidManifest.xml:94:9
+	android:label
+		ADDED from AndroidManifest.xml:96:13
+	android:name
+		ADDED from AndroidManifest.xml:95:13
+activity#myp.app.fabus.activity1
+ADDED from AndroidManifest.xml:98:9
+	android:label
+		ADDED from AndroidManifest.xml:100:13
+	android:name
+		ADDED from AndroidManifest.xml:99:13
+activity#myp.app.fabus.raj_pari
+ADDED from AndroidManifest.xml:102:9
+	android:label
+		ADDED from AndroidManifest.xml:104:13
+	android:name
+		ADDED from AndroidManifest.xml:103:13
+activity#myp.app.fabus.question_raj
+ADDED from AndroidManifest.xml:106:9
+	android:label
+		ADDED from AndroidManifest.xml:108:13
+	android:name
+		ADDED from AndroidManifest.xml:107:13
+activity#myp.app.fabus.mem_1raj
+ADDED from AndroidManifest.xml:110:9
+	android:label
+		ADDED from AndroidManifest.xml:112:13
+	android:name
+		ADDED from AndroidManifest.xml:111:13
+activity#myp.app.fabus.Memory_r_1
+ADDED from AndroidManifest.xml:114:9
+	android:label
+		ADDED from AndroidManifest.xml:116:13
+	android:name
+		ADDED from AndroidManifest.xml:115:13
+activity#myp.app.fabus.Memory_r_2
+ADDED from AndroidManifest.xml:118:9
+	android:label
+		ADDED from AndroidManifest.xml:120:13
+	android:name
+		ADDED from AndroidManifest.xml:119:13
+activity#myp.app.fabus.Memory_r_3
+ADDED from AndroidManifest.xml:122:9
+	android:label
+		ADDED from AndroidManifest.xml:124:13
+	android:name
+		ADDED from AndroidManifest.xml:123:13
+activity#myp.app.fabus.Memory_r_4
+ADDED from AndroidManifest.xml:126:9
+	android:label
+		ADDED from AndroidManifest.xml:128:13
+	android:name
+		ADDED from AndroidManifest.xml:127:13
+activity#myp.app.fabus.Memory_r_5
+ADDED from AndroidManifest.xml:130:9
+	android:label
+		ADDED from AndroidManifest.xml:132:13
+	android:name
+		ADDED from AndroidManifest.xml:131:13
+activity#myp.app.fabus.Memory_m_1
+ADDED from AndroidManifest.xml:134:9
+	android:label
+		ADDED from AndroidManifest.xml:136:13
+	android:name
+		ADDED from AndroidManifest.xml:135:13
+activity#myp.app.fabus.Memory_s_1
+ADDED from AndroidManifest.xml:138:9
+	android:label
+		ADDED from AndroidManifest.xml:140:13
+	android:name
+		ADDED from AndroidManifest.xml:139:13
+activity#myp.app.fabus.Memory_s_2
+ADDED from AndroidManifest.xml:142:9
+	android:label
+		ADDED from AndroidManifest.xml:144:13
+	android:name
+		ADDED from AndroidManifest.xml:143:13
+activity#myp.app.fabus.Memory_s_3
+ADDED from AndroidManifest.xml:146:9
+	android:label
+		ADDED from AndroidManifest.xml:148:13
+	android:name
+		ADDED from AndroidManifest.xml:147:13
+activity#myp.app.fabus.Memory_s_4
+ADDED from AndroidManifest.xml:150:9
+	android:label
+		ADDED from AndroidManifest.xml:152:13
+	android:name
+		ADDED from AndroidManifest.xml:151:13
+activity#myp.app.fabus.Memory_s_5
+ADDED from AndroidManifest.xml:154:9
+	android:label
+		ADDED from AndroidManifest.xml:156:13
+	android:name
+		ADDED from AndroidManifest.xml:155:13
+activity#myp.app.fabus.Memory_komal_1
+ADDED from AndroidManifest.xml:158:9
+	android:label
+		ADDED from AndroidManifest.xml:160:13
+	android:name
+		ADDED from AndroidManifest.xml:159:13
+activity#myp.app.fabus.Memory_komal_2
+ADDED from AndroidManifest.xml:162:9
+	android:label
+		ADDED from AndroidManifest.xml:164:13
+	android:name
+		ADDED from AndroidManifest.xml:163:13
+activity#myp.app.fabus.Memory_komal_3
+ADDED from AndroidManifest.xml:166:9
+	android:label
+		ADDED from AndroidManifest.xml:168:13
+	android:name
+		ADDED from AndroidManifest.xml:167:13
+activity#myp.app.fabus.Memory_komal_4
+ADDED from AndroidManifest.xml:170:9
+	android:label
+		ADDED from AndroidManifest.xml:172:13
+	android:name
+		ADDED from AndroidManifest.xml:171:13
+activity#myp.app.fabus.Memory_komal_5
+ADDED from AndroidManifest.xml:174:9
+	android:label
+		ADDED from AndroidManifest.xml:176:13
+	android:name
+		ADDED from AndroidManifest.xml:175:13
+activity#myp.app.fabus.Memory_h_1
+ADDED from AndroidManifest.xml:178:9
+	android:label
+		ADDED from AndroidManifest.xml:180:13
+	android:name
+		ADDED from AndroidManifest.xml:179:13
+activity#myp.app.fabus.Memory_h_2
+ADDED from AndroidManifest.xml:182:9
+	android:label
+		ADDED from AndroidManifest.xml:184:13
+	android:name
+		ADDED from AndroidManifest.xml:183:13
+activity#myp.app.fabus.Memory_h_3
+ADDED from AndroidManifest.xml:186:9
+	android:label
+		ADDED from AndroidManifest.xml:188:13
+	android:name
+		ADDED from AndroidManifest.xml:187:13
+activity#myp.app.fabus.Memory_h_4
+ADDED from AndroidManifest.xml:190:9
+	android:label
+		ADDED from AndroidManifest.xml:192:13
+	android:name
+		ADDED from AndroidManifest.xml:191:13
+activity#myp.app.fabus.Memory_h_5
+ADDED from AndroidManifest.xml:194:9
+	android:label
+		ADDED from AndroidManifest.xml:196:13
+	android:name
+		ADDED from AndroidManifest.xml:195:13
+service#myp.app.fabus.MusicService
+ADDED from AndroidManifest.xml:199:9
+	android:enabled
+		ADDED from AndroidManifest.xml:201:13
+	android:name
+		ADDED from AndroidManifest.xml:200:13
+activity#myp.app.fabus.raj_activity
+ADDED from AndroidManifest.xml:203:9
+	android:label
+		ADDED from AndroidManifest.xml:205:13
+	android:name
+		ADDED from AndroidManifest.xml:204:13
+activity#myp.app.fabus.quessionary
+ADDED from AndroidManifest.xml:207:9
+	android:label
+		ADDED from AndroidManifest.xml:209:13
+	android:name
+		ADDED from AndroidManifest.xml:208:13
+activity#myp.app.fabus.surprise
+ADDED from AndroidManifest.xml:211:9
+	android:label
+		ADDED from AndroidManifest.xml:213:13
+	android:name
+		ADDED from AndroidManifest.xml:212:13

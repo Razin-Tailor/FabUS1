@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/razintailor/AndroidStudioProjects/FabUS1/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/razintailor/AndroidStudioProjects/FabUS1/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">FabUS</string>
+    <string name="button">Razin</string>
+    <string name="button1">Pari Mode</string>
+    <string name="button2">Shastri Mode</string>
+    <string name="button3">Komal</string>
+    <string name="button4">Shreya</string>
+    <string name="button5">Hetashvi</string>
+    <string name="button6">Mayank</string>
+    <string name="button7">Gaurang</string>
+    <string name="button8">Devesh</string>
+    <string name="button9">Kishan</string>
+    <string name="fabus">FabUS</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="question">Who do you think you are?</string>
+    <string name="question2">Whats ur passion?</string>
+    <string name="title_activity_activity1">activity1</string>
+    <string name="title_activity_dev_pari">dev_pari</string>
+    <string name="title_activity_gaurang_pari">gaurang_pari</string>
+    <string name="title_activity_hetashvi_pari">hetashvi_pari</string>
+    <string name="title_activity_kish_pari">kish_pari</string>
+    <string name="title_activity_komal_pari">komal_pari</string>
+    <string name="title_activity_komal_shreya">komal_shreya</string>
+    <string name="title_activity_mayank_pari">mayank_pari</string>
+    <string name="title_activity_mem_1raj">mem_1raj</string>
+    <string name="title_activity_memory_h_1">Memory_h_1</string>
+    <string name="title_activity_memory_h_2">Memory_h_2</string>
+    <string name="title_activity_memory_h_3">Memory_h_3</string>
+    <string name="title_activity_memory_h_4">Memory_h_4</string>
+    <string name="title_activity_memory_h_5">Memory_h_5</string>
+    <string name="title_activity_memory_komal_1">Memory_komal_1</string>
+    <string name="title_activity_memory_komal_2">Memory_komal_2</string>
+    <string name="title_activity_memory_komal_3">Memory_komal_3</string>
+    <string name="title_activity_memory_komal_4">Memory_komal_4</string>
+    <string name="title_activity_memory_komal_5">Memory_komal_5</string>
+    <string name="title_activity_memory_m_1">Memory_m_1</string>
+    <string name="title_activity_memory_r_1">Memory_r_1</string>
+    <string name="title_activity_memory_r_2">Memory_r_2</string>
+    <string name="title_activity_memory_r_3">Memory_r_3</string>
+    <string name="title_activity_memory_r_4">Memory_r_4</string>
+    <string name="title_activity_memory_r_5">Memory_r_5</string>
+    <string name="title_activity_memory_s_1">Memory_s_1</string>
+    <string name="title_activity_memory_s_2">Memory_s_2</string>
+    <string name="title_activity_memory_s_3">Memory_s_3</string>
+    <string name="title_activity_memory_s_4">Memory_s_4</string>
+    <string name="title_activity_memory_s_5">Memory_s_5</string>
+    <string name="title_activity_quessionary">quessionary</string>
+    <string name="title_activity_question_1">question_1</string>
+    <string name="title_activity_question_2">question_2</string>
+    <string name="title_activity_question_3">question_3</string>
+    <string name="title_activity_question_4">question_4</string>
+    <string name="title_activity_question_5">question_5</string>
+    <string name="title_activity_question_6">question_6</string>
+    <string name="title_activity_question_7">question_7</string>
+    <string name="title_activity_question_raj">question_raj</string>
+    <string name="title_activity_r_c1">r_c1</string>
+    <string name="title_activity_r_c2">r_c2</string>
+    <string name="title_activity_r_c3">r_c3</string>
+    <string name="title_activity_raj_activity">raj_activity</string>
+    <string name="title_activity_raj_pari">raj_pari</string>
+    <string name="title_activity_seven_buttons">SevenButtons</string>
+    <string name="title_activity_surprise">surprise</string>
+    <string name="title_activity_two_buttons">FabUS</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <!-- From: file:/Users/razintailor/AndroidStudioProjects/FabUS1/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

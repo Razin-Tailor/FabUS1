@@ -1,0 +1,53 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context="myp.app.fabus.TwoButtons"
+    android:background="@drawable/homebackground" >
+   <LinearLayout android:layout_weight="1" android:layout_height="fill_parent" android:layout_width="fill_parent">
+
+       <Button
+           android:id="@+id/button1"
+           android:layout_width="fill_parent"
+           android:layout_height="fill_parent"
+           android:layout_alignParentLeft="true"
+           android:layout_centerVertical="true"
+           android:layout_marginLeft="0dp"
+           android:background="@drawable/parimode"
+           android:onClick="openActivity1" />
+
+   </LinearLayout>
+
+    <LinearLayout android:layout_weight="1" android:layout_height="fill_parent" android:layout_width="fill_parent">
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="0dp"
+            android:background="@drawable/shastrimodee"
+            android:onClick="openActivity" />
+    </LinearLayout>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Select Mode"
+        android:id="@+id/textView2"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="#c3c3c3"
+        android:textStyle="bold"
+        android:typeface="monospace" />
+
+</LinearLayout>
+<!-- From: file:/Users/razintailor/AndroidStudioProjects/FabUS1/app/src/main/res/layout/activity_two_buttons.xml -->

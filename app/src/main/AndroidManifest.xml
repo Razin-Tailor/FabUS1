@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="myp.app.fabus"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="20" />
+
+    <android:uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        android:maxSdkVersion="18" />
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <android:uses-permission
+        android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".TwoButtons"
+            android:label="@string/title_activity_two_buttons" >
+        </activity>
+        <activity
+            android:name=".SevenButtons"
+            android:label="@string/title_activity_seven_buttons" >
+        </activity>
+        <activity
+            android:name=".question_1"
+            android:label="@string/title_activity_question_1" >
+        </activity>
+        <activity
+            android:name=".komal_pari"
+            android:label="@string/title_activity_komal_pari" >
+        </activity>
+        <activity
+            android:name=".question_2"
+            android:label="@string/title_activity_question_2" >
+        </activity>
+        <activity
+            android:name=".shreya_pari"
+            android:label="@string/title_activity_komal_shreya" >
+        </activity>
+        <activity
+            android:name=".question_3"
+            android:label="@string/title_activity_question_3" >
+        </activity>
+        <activity
+            android:name=".question_4"
+            android:label="@string/title_activity_question_4" >
+        </activity>
+        <activity
+            android:name=".question_5"
+            android:label="@string/title_activity_question_5" >
+        </activity>
+        <activity
+            android:name=".question_7"
+            android:label="@string/title_activity_question_7" >
+        </activity>
+        <activity
+            android:name=".question_6"
+            android:label="@string/title_activity_question_6" >
+        </activity>
+        <activity
+            android:name=".hetashvi_pari"
+            android:label="@string/title_activity_hetashvi_pari" >
+        </activity>
+        <activity
+            android:name=".mayank_pari"
+            android:label="@string/title_activity_mayank_pari" >
+        </activity>
+        <activity
+            android:name=".gaurang_pari"
+            android:label="@string/title_activity_gaurang_pari" >
+        </activity>
+        <activity
+            android:name=".dev_pari"
+            android:label="@string/title_activity_dev_pari" >
+        </activity>
+        <activity
+            android:name=".kish_pari"
+            android:label="@string/title_activity_kish_pari" >
+        </activity>
+        <activity
+            android:name=".activity1"
+            android:label="@string/title_activity_activity1" >
+        </activity>
+        <activity
+            android:name=".raj_pari"
+            android:label="@string/title_activity_raj_pari" >
+        </activity>
+        <activity
+            android:name=".question_raj"
+            android:label="@string/title_activity_question_raj" >
+        </activity>
+        <activity
+            android:name=".mem_1raj"
+            android:label="@string/title_activity_mem_1raj" >
+        </activity>
+        <activity
+            android:name=".Memory_r_1"
+            android:label="@string/title_activity_memory_r_1" >
+        </activity>
+        <activity
+            android:name=".Memory_r_2"
+            android:label="@string/title_activity_memory_r_2" >
+        </activity>
+        <activity
+            android:name=".Memory_r_3"
+            android:label="@string/title_activity_memory_r_3" >
+        </activity>
+        <activity
+            android:name=".Memory_r_4"
+            android:label="@string/title_activity_memory_r_4" >
+        </activity>
+        <activity
+            android:name=".Memory_r_5"
+            android:label="@string/title_activity_memory_r_5" >
+        </activity>
+        <activity
+            android:name=".Memory_m_1"
+            android:label="@string/title_activity_memory_m_1" >
+        </activity>
+        <activity
+            android:name=".Memory_s_1"
+            android:label="@string/title_activity_memory_s_1" >
+        </activity>
+        <activity
+            android:name=".Memory_s_2"
+            android:label="@string/title_activity_memory_s_2" >
+        </activity>
+        <activity
+            android:name=".Memory_s_3"
+            android:label="@string/title_activity_memory_s_3" >
+        </activity>
+        <activity
+            android:name=".Memory_s_4"
+            android:label="@string/title_activity_memory_s_4" >
+        </activity>
+        <activity
+            android:name=".Memory_s_5"
+            android:label="@string/title_activity_memory_s_5" >
+        </activity>
+        <activity
+            android:name=".Memory_komal_1"
+            android:label="@string/title_activity_memory_komal_1" >
+        </activity>
+        <activity
+            android:name=".Memory_komal_2"
+            android:label="@string/title_activity_memory_komal_2" >
+        </activity>
+        <activity
+            android:name=".Memory_komal_3"
+            android:label="@string/title_activity_memory_komal_3" >
+        </activity>
+        <activity
+            android:name=".Memory_komal_4"
+            android:label="@string/title_activity_memory_komal_4" >
+        </activity>
+        <activity
+            android:name=".Memory_komal_5"
+            android:label="@string/title_activity_memory_komal_5" >
+        </activity>
+        <activity
+            android:name=".Memory_h_1"
+            android:label="@string/title_activity_memory_h_1" >
+        </activity>
+        <activity
+            android:name=".Memory_h_2"
+            android:label="@string/title_activity_memory_h_2" >
+        </activity>
+        <activity
+            android:name=".Memory_h_3"
+            android:label="@string/title_activity_memory_h_3" >
+        </activity>
+        <activity
+            android:name=".Memory_h_4"
+            android:label="@string/title_activity_memory_h_4" >
+        </activity>
+        <activity
+            android:name=".Memory_h_5"
+            android:label="@string/title_activity_memory_h_5" >
+        </activity>
+
+        <service
+            android:name=".MusicService"
+            android:enabled="true" />
+
+        <activity
+            android:name=".raj_activity"
+            android:label="@string/title_activity_raj_activity" >
+        </activity>
+        <activity
+            android:name=".quessionary"
+            android:label="@string/title_activity_quessionary" >
+        </activity>
+        <activity
+            android:name=".surprise"
+            android:label="@string/title_activity_surprise" >
+        </activity>
+    </application>
+
+</manifest>

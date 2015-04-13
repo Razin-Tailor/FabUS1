@@ -1,0 +1,26 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="myp.app.fabus.MainActivity"
+    android:background="@drawable/homebackground">
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/fab_app"
+        android:onClick="openActivity" />
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="160dp"
+        android:id="@+id/imageView"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/fabus"
+        android:layout_alignParentStart="false"
+        android:contentDescription="@string/app_name"/>
+
+</RelativeLayout><!-- From: file:/Users/razintailor/AndroidStudioProjects/FabUS1/app/src/main/res/layout/activity_main.xml -->
