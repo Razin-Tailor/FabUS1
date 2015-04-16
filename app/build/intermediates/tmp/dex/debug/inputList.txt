@@ -1,6 +1,6 @@
-/Users/razintailor/AndroidStudioProjects/FabUS1/app/build/intermediates/classes/debug
-/Users/razintailor/AndroidStudioProjects/FabUS1/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-fe640db0517dbe61c4bfd883d3c1a69f14df5066.jar
-/Users/razintailor/AndroidStudioProjects/FabUS1/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-5ea4c08c80d8834eb3db91cc3d119f712466739b.jar
-/Users/razintailor/AndroidStudioProjects/FabUS1/app/build/intermediates/pre-dexed/debug/classes-2118dbf2e4b5ffd671f85804138529a099970dce.jar
-/Users/razintailor/AndroidStudioProjects/FabUS1/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-8e8216a8764d3f0883f6fab9d103091a0bd3cdd3.jar
-/Users/razintailor/AndroidStudioProjects/FabUS1/app/build/intermediates/pre-dexed/debug/classes-dd9c8fab4e0bbddc718dc4427e092c4a66f2c379.jar
+C:\Users\DELL\Documents\GitHub\FabUS1\app\build\intermediates\classes\debug
+C:\Users\DELL\Documents\GitHub\FabUS1\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-e23bfbc184939f3fc56da587da9173a1c018b9a4.jar
+C:\Users\DELL\Documents\GitHub\FabUS1\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-be1becfd3c8924ad32521b9c90686525dbf639ad.jar
+C:\Users\DELL\Documents\GitHub\FabUS1\app\build\intermediates\pre-dexed\debug\classes-9d8ce96d8a0b7077abf72623a51864a97aaba33b.jar
+C:\Users\DELL\Documents\GitHub\FabUS1\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-49e0dc533058db8d7f200054abba628e49d56acf.jar
+C:\Users\DELL\Documents\GitHub\FabUS1\app\build\intermediates\pre-dexed\debug\classes-1b6f2c750535a3ee9def52b150b84ffedd583adf.jar

@@ -68,5 +68,6 @@
     <string name="title_activity_raj_activity">raj_activity</string>
     <string name="title_activity_quessionary">quessionary</string>
     <string name="title_activity_surprise">surprise</string>
+    <string name="title_activity_raj_q1">raj_q1</string>
 
 </resources>

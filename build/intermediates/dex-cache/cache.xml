@@ -2,39 +2,39 @@
 <items version="2" >
 
     <item
-        jar="/Users/razintailor/AndroidStudioProjects/FabUS1/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="/Users/razintailor/AndroidStudioProjects/FabUS1/app/build/intermediates/pre-dexed/debug/classes-dd9c8fab4e0bbddc718dc4427e092c4a66f2c379.jar" />
-    </item>
-    <item
-        jar="/Users/razintailor/AndroidStudioProjects/FabUS1/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="/Users/razintailor/AndroidStudioProjects/FabUS1/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-8e8216a8764d3f0883f6fab9d103091a0bd3cdd3.jar" />
-    </item>
-    <item
-        jar="/Users/razintailor/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="/Users/razintailor/AndroidStudioProjects/FabUS1/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-5ea4c08c80d8834eb3db91cc3d119f712466739b.jar" />
-    </item>
-    <item
-        jar="/Users/razintailor/AndroidStudioProjects/FabUS1/app/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/libs/internal_impl-21.0.3.jar"
+        jar="C:\Users\DELL\Documents\GitHub\FabUS1\app\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\libs\internal_impl-21.0.3.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
-        <dex dex="/Users/razintailor/AndroidStudioProjects/FabUS1/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-fe640db0517dbe61c4bfd883d3c1a69f14df5066.jar" />
+        <dex dex="C:\Users\DELL\Documents\GitHub\FabUS1\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-e23bfbc184939f3fc56da587da9173a1c018b9a4.jar" />
     </item>
     <item
-        jar="/Users/razintailor/AndroidStudioProjects/FabUS1/app/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/classes.jar"
+        jar="A:\Program Files (x86)\Android SDK\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\DELL\Documents\GitHub\FabUS1\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-be1becfd3c8924ad32521b9c90686525dbf639ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\DELL\Documents\GitHub\FabUS1\app\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
-        <dex dex="/Users/razintailor/AndroidStudioProjects/FabUS1/app/build/intermediates/pre-dexed/debug/classes-2118dbf2e4b5ffd671f85804138529a099970dce.jar" />
+        <dex dex="C:\Users\DELL\Documents\GitHub\FabUS1\app\build\intermediates\pre-dexed\debug\classes-9d8ce96d8a0b7077abf72623a51864a97aaba33b.jar" />
+    </item>
+    <item
+        jar="C:\Users\DELL\Documents\GitHub\FabUS1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\DELL\Documents\GitHub\FabUS1\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-49e0dc533058db8d7f200054abba628e49d56acf.jar" />
+    </item>
+    <item
+        jar="C:\Users\DELL\Documents\GitHub\FabUS1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\DELL\Documents\GitHub\FabUS1\app\build\intermediates\pre-dexed\debug\classes-1b6f2c750535a3ee9def52b150b84ffedd583adf.jar" />
     </item>
 
 </items>

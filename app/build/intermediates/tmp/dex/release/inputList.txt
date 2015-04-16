@@ -1,6 +1,0 @@
-/Users/razintailor/AndroidStudioProjects/FabUS1/app/build/intermediates/classes/release
-/Users/razintailor/AndroidStudioProjects/FabUS1/app/build/intermediates/pre-dexed/release/internal_impl-21.0.3-fe640db0517dbe61c4bfd883d3c1a69f14df5066.jar
-/Users/razintailor/AndroidStudioProjects/FabUS1/app/build/intermediates/pre-dexed/release/support-annotations-21.0.3-5ea4c08c80d8834eb3db91cc3d119f712466739b.jar
-/Users/razintailor/AndroidStudioProjects/FabUS1/app/build/intermediates/pre-dexed/release/classes-2118dbf2e4b5ffd671f85804138529a099970dce.jar
-/Users/razintailor/AndroidStudioProjects/FabUS1/app/build/intermediates/pre-dexed/release/internal_impl-21.0.3-8e8216a8764d3f0883f6fab9d103091a0bd3cdd3.jar
-/Users/razintailor/AndroidStudioProjects/FabUS1/app/build/intermediates/pre-dexed/release/classes-dd9c8fab4e0bbddc718dc4427e092c4a66f2c379.jar

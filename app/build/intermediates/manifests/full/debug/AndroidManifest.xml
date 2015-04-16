@@ -212,6 +212,10 @@
             android:name="myp.app.fabus.surprise"
             android:label="@string/title_activity_surprise" >
         </activity>
+        <activity
+            android:name="myp.app.fabus.raj_q1"
+            android:label="@string/title_activity_raj_q1" >
+        </activity>
     </application>
 
 </manifest>

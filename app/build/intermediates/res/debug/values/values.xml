@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/razintailor/AndroidStudioProjects/FabUS1/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/C:/Users/DELL/Documents/GitHub/FabUS1/app/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="green">#158563</color>
+    <color name="red">#a21536</color>
+    <!-- From: file:/C:/Users/DELL/Documents/GitHub/FabUS1/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <!-- From: file:/Users/razintailor/AndroidStudioProjects/FabUS1/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/DELL/Documents/GitHub/FabUS1/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="action_settings">Settings</string>
     <string name="app_name">FabUS</string>
@@ -66,13 +70,14 @@
     <string name="title_activity_r_c3">r_c3</string>
     <string name="title_activity_raj_activity">raj_activity</string>
     <string name="title_activity_raj_pari">raj_pari</string>
+    <string name="title_activity_raj_q1">raj_q1</string>
     <string name="title_activity_seven_buttons">SevenButtons</string>
     <string name="title_activity_surprise">surprise</string>
     <string name="title_activity_two_buttons">FabUS</string>
     <string name="title_section1">Section 1</string>
     <string name="title_section2">Section 2</string>
     <string name="title_section3">Section 3</string>
-    <!-- From: file:/Users/razintailor/AndroidStudioProjects/FabUS1/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/C:/Users/DELL/Documents/GitHub/FabUS1/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--
