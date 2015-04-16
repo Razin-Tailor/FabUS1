@@ -212,10 +212,6 @@
             android:name=".surprise"
             android:label="@string/title_activity_surprise" >
         </activity>
-        <activity
-            android:name=".raj_q1"
-            android:label="@string/title_activity_raj_q1" >
-        </activity>
     </application>
 
 </manifest>
