@@ -34,7 +34,7 @@ public class raj_pari extends Activity {
                 //startActivity(intent);
                 switch( position )
                 {
-                    case 0:  Intent newActivity = new Intent(raj_pari.this, Memory_r_1.class);
+                    case 0:  Intent newActivity = new Intent(raj_pari.this, raj_q1.class);
                         startActivity(newActivity);
                         break;
                     case 1:  Intent newActivity1 = new Intent(raj_pari.this, Memory_r_2.class);

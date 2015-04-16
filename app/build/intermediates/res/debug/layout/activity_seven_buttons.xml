@@ -25,6 +25,7 @@
 
         <LinearLayout android:layout_weight="1" android:layout_height="fill_parent" android:orientation="horizontal" android:layout_width="fill_parent"
             android:layout_marginLeft="80dp">
+
             <Button
             android:id="@+id/button1"
             android:layout_width="120dp"
@@ -36,7 +37,8 @@
             android:layout_alignParentTop="true"
             android:layout_alignLeft="@+id/button2"
             android:layout_alignStart="@+id/button2" />
-            </LinearLayout>
+
+        </LinearLayout>
     </LinearLayout>
 
     <LinearLayout android:layout_weight="1" android:layout_height="fill_parent" android:layout_width="fill_parent"
@@ -155,4 +157,4 @@
 
 
 
-<!-- From: file:/Users/razintailor/AndroidStudioProjects/FabUS1/app/src/main/res/layout/activity_seven_buttons.xml -->
+<!-- From: file:/C:/Users/DELL/Documents/GitHub/FabUS1/app/src/main/res/layout/activity_seven_buttons.xml -->
